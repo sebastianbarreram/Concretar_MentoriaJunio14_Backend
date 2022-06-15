@@ -24,7 +24,7 @@ public class UsuarioModel {
         return prioridad;
     }
 
-    public Long getId() {
+    public char getId() {
         return id;
     }
 
